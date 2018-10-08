@@ -1,6 +1,12 @@
 {
     "name": "kail/taobao-sdk",
     "description": "taobao-sdk",
+    "authors": [
+        {
+            "name": "kail",
+            "email": "1399791106@qq.com"
+        }
+    ],
     "type": "library",
     "license": "MIT",
     "require": {
