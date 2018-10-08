@@ -1,0 +1,15 @@
+{
+    "name": "kail/taobao-sdk",
+    "description": "taobao-sdk",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">= 5.2.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "files": [
+            "TopSdk.php"
+        ]
+    }
+}
